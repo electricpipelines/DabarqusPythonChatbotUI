@@ -17,8 +17,8 @@ DabarqusChatbotUI is a user-friendly interface for interacting with the Dabarqus
 ## Installation
 
 1. Clone the repository:  
-`git clone https://github.com/yourusername/DabarqusChatbotUI.git`
-`cd DabarqusChatbotUI`
+`git clone https://github.com/yourusername/DabarqusChatbotUI.git`  
+`cd DabarqusChatbotUI`  
 The application will start and provide a local URL (usually http://127.0.0.1:7860). Open this URL in your web browser to access the chat interface.
 
 1. Select a memory bank from the dropdown menu.
