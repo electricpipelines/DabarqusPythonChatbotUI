@@ -22,7 +22,7 @@ Important: This chatbot requires Dabarqus to be installed and running on your ma
 - Started the Dabarqus service on your machine  
 
 The chatbot communicates with the Dabarqus service via its API, so having Dabarqus running is essential for the chatbot to function correctly.
-Once Dabarqus is set up and running, you can proceed with using this chatbot. For more information on how to start and manage the Dabarqus service, please refer to the Dabarqus documentation.
+Once Dabarqus is set up and running, you can proceed with using this chatbot. For more information on how to start and manage the Dabarqus service, please refer to the [Dabarqus documentation](dabarqus.com).
 
 ### Chatbot installation
 
