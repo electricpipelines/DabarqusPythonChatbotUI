@@ -15,6 +15,16 @@ DabarqusPythonChatbotUI is a user-friendly interface for interacting with the Da
 - Dabarqus server running and accessible
 
 ## Installation
+### Dabarqus Service
+Important: This chatbot requires Dabarqus to be installed and running on your machine. Before using this chatbot, please ensure that you have:
+
+- Downloaded and installed Dabarqus  
+- Started the Dabarqus service on your machine  
+
+The chatbot communicates with the Dabarqus service via its API, so having Dabarqus running is essential for the chatbot to function correctly.
+Once Dabarqus is set up and running, you can proceed with using this chatbot. For more information on how to start and manage the Dabarqus service, please refer to the Dabarqus documentation.
+
+### Chatbot installation
 
 1. Clone the repository:   
 `git clone https://github.com/electricpipelines/DabarqusPythonChatbotUI.git`    
