@@ -1,6 +1,6 @@
-# DabarqusChatbotUI
+# Dabarqus Python Chatbot UI
 
-DabarqusChatbotUI is a user-friendly interface for interacting with the Dabarqus retrieval-augmented generation (RAG) system. It provides a chat-like interface where users can select memory banks and engage in conversations powered by Dabarqus's semantic search capabilities.
+DabarqusPythonChatbotUI is a user-friendly interface for interacting with the Dabarqus retrieval-augmented generation (RAG) system. It provides a chat-like interface where users can select memory banks and engage in conversations powered by Dabarqus's semantic search capabilities.
 
 ## Features
 
