@@ -34,3 +34,6 @@ dist/
 *.tmp
 *.bak
 *.swp
+
+# Conversation logs 
+conversation*
