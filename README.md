@@ -60,10 +60,6 @@ The application will start and provide a local URL (usually http://127.0.0.1:786
 - `templates/`: Directory containing prompt templates
 - `sample_prompt.md`: Sample prompt file for the chatbot
 
-## Contributing
-
-Contributions to DabarqusChatbotUI are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 TODO
